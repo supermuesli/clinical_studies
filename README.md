@@ -1,28 +1,40 @@
 # clinical_studies
 "Klinische Studien" at RWTH Aachen University, 2020
 
-# Aufgaben zu "Klinische Studien"
 ## Kapitel 1
+### 1)
+Betrachte
+- allocation bias 
+- performance bias 
+- attrition bias 
+- detection bias
+und gebe für jedes bias eine mögliche Auswirkung in einer klinischen Studie an
+**Lösung:**
+### 2)
+Betrachten Sie die Studie von Lind. Welche charakteristischen Elemente einer klinischen Studie lassen sich identifizieren?
+**Lösung:**
 ## Take home message von Kapitel 1
 - Historische Beispiele
 - Ethik 
 - Gesetze
+
 ## Kapitel 2
 ### 1)
 Betrachten sie die **ICH E6 GCP** Guideline in der aktuellen
 Version *(„INTEGRATED ADDENDUM TO ICH E6(R1):
 GUIDELINE FOR GOOD CLINICAL PRACTICE E6(R2)“)*.
-- Versuchen Sie die sich aus der Guideline ergebenden
+Versuchen Sie die sich aus der Guideline ergebenden
 möglichen Auswirkungen für die Durchführung klinischer
 Studien zu erfassen? Hierbei interessiert insbesondere
 der Verbindlichkeitsgrad
-- **Lösung:** TODO
+**Lösung:** TODO
 ### 2)
-- Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere Komponenten festgelegt werden. Benennen Sie diese.
-- **Lösung:** TODO
+Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere Komponenten festgelegt werden. Benennen Sie diese.
+**Lösung:** TODO
 ### 3)
 - Welche Arten von Primären Endpunktvariablen unterscheidet man? 
 - Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
+- **Lösung:** TODO
 - **Lösung:** TODO
 ## Take home message von Kapitel 2
 - Wissenschaftliche Fragestellung wird durch Zweck z.b. Arzneimittelzulassung vorgegeben 
@@ -31,6 +43,9 @@ der Verbindlichkeitsgrad
 - Zu den Hypothesen gehört eine Auswertepopulation
 
 ## Kapitel 3
+
 ## Kapitel 4
+
 ## Kapitel 5
+
 ## Kapitel 6
