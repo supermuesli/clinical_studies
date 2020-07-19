@@ -87,7 +87,7 @@ Masterprotokollen verwendet.
 - **Lösung:**
 
 ## Take home message von Kapitel 3
-Klare definierte Zielgröße ist notwendig
+- Klare definierte Zielgröße ist notwendig
 - Wissenschaftliche Fragestellung wird in eine Hypothese
 umgesetzt
 - Statistische Hypothesen
@@ -150,4 +150,77 @@ generieren
 
 ## Kapitel 5
 
+### 1)
+- Nennen Sie möglich Gründe für die Wahl einer
+multizentrischen Studienanlagen
+- Welche möglichen Probleme schränken die Anwendung
+von Multicenter-Studienanlagen ein?
+- Welche Auswertestrategien für MulticenterStudienanlagen gibt es?
+- Charakterisieren Sie mögliche praktische Scenarien für
+die unterschiedlichen Multicenter-Studienanlagen?
+- **Lösung**
+- **Lösung**
+- **Lösung**
+- **Lösung**
+
+### 2)
+- Beschreiben Sie die möglichen Auswirkungen einer
+Multicenter-Studienanlagen auf die statistische Aspekte
+der Planung und Auswertung
+- Welche möglichen Auswertungsstrategien ergeben sich
+bei Rangskalierten Daten?
+- Kommentieren Sie die zusätzliche Aufnahme von Zentren
+in einer laufenden Multicenterstudie
+- Kommentieren Sie mögliche Auswirkungen der
+Stratifizierung auf die Randomisierung.
+- **Lösung**
+- **Lösung**
+- **Lösung**
+- **Lösung**
+
+## Take home message von Kapitel 5
+- Multicenterstudien stellen eine erhebliche
+Herausforderung an die Studiendurchführung und
+Planung dar.
+- Die Auswertung erfolgt mittels gewichteten stratifizierten
+Tests und der Prüfung auf Unterschieden vorn
+Behandlungsdifferenzen zwischen den Zentren.
+- In Large Mortality Studien kann unstratifiziert gearbeitet
+werden
+- Die Stratifizierung nach Zentrum impliziert eine
+stratifizierte Randomisierung 
+
 ## Kapitel 6
+
+### 1)
+Beschreibung Sie mögliche graphische Veranschaulichungen der Daten des einfachen Crossover Versuchsplans.
+
+**Lösung:**
+
+### 2)
+- Welche möglichen Probleme schränken die Anwendung
+von einfachen Cross-Over Versuchsplänen ein?
+- Beschreiben Sie Charakteristika von Krankheiten, die die
+die Anwendung von einfachen Cross-Over
+Versuchsplänen ermöglichen.
+- Welche möglichen Auswertungen ergeben sich bei
+Rangskalierten Daten?
+- **Lösung:**
+- **Lösung:**
+- **Lösung:**
+
+### 3)
+- Beschreibung Sie das Vorgehensweise beim Test auf
+Behandlungsunterschied, wenn kein Carryover Effekt
+vorliegt?
+- Beschreibung Sie das Vorgehensweise beim Test auf
+Behandlungsunterschied, wenn ein Carryover Effekt
+vorliegt?
+- **Lösung:**
+- **Lösung:**
+
+## Take home message von Kapitel 6
+- schon im einfachste Fall sehr komplexes Design, sowohl
+was die Durchführung und die Analyse angeht.
+- Viele Fallstricke!
+- Äusserst effizient, was die Fallzahl angeht.
