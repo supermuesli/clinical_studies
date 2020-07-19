@@ -1,6 +1,7 @@
 # clinical_studies
-"Klinische Studien" at RWTH Aachen University, 2020
+"Klinische Studien" at RWTH Aachen University, 2020.
 
+# Some exercises and summaries, in german
 ## Kapitel 1
 ### 1)
 Betrachte
@@ -8,7 +9,8 @@ Betrachte
 - performance bias 
 - attrition bias 
 - detection bias
-und gebe für jedes bias eine mögliche Auswirkung in einer klinischen Studie an
+
+und gebe für jedes Bias eine mögliche Auswirkung in einer klinischen Studie an
 
 **Lösung:**
 ### 2)
@@ -36,10 +38,10 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 
 **Lösung:** TODO
 ### 3)
-- Welche Arten von Primären Endpunktvariablen unterscheidet man? 
-- Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
-- **Lösung:** TODO
-- **Lösung:** TODO
+1) Welche Arten von Primären Endpunktvariablen unterscheidet man? 
+2) Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
+1) **Lösung:** TODO
+2) **Lösung:** TODO
 ## Take home message von Kapitel 2
 - Wissenschaftliche Fragestellung wird durch Zweck z.b. Arzneimittelzulassung vorgegeben 
 - Klare definierte Primäre Endpunkt Variable ist notwendig zur Beantwortung der Wissenschaftliche Fragestellung – Verschiedene Arten von Primäre Endpunkt Variablen sind notwendig 
@@ -47,6 +49,31 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 - Zu den Hypothesen gehört eine Auswertepopulation
 
 ## Kapitel 3
+### 1)
+1) Was sind Gründe für eine Pilotstudie?
+2) Benennen Sie Möglichkeiten und Grenzen von
+Pilotstudien.
+1) **Lösung:**
+2) **Lösung:**
+### 2)
+1) Charakterisieren Sie die Fragestellung von Phase 1/2/3
+Studiendesigns
+2) Benennen und charakterisieren Sie den Ablauf möglicher
+Phase 1 Studiendesigns.
+3) Benennen Sie mögliche Schwachstellen von Phase 1/2/3
+Studien
+1) **Lösung:**
+2) **Lösung:**
+3) **Lösung:**
+### 3)
+1) Benennen Sie mögliche Techniken zur Optimierung von
+Studiendesigns.
+2) Was versteht man unter Enrichment Fragestellungen
+3) Welchen Studiendesigns werden zur Zeit im Rahmen von
+Masterprotokollen verwendet. 
+1) **Lösung:**
+2) **Lösung:**
+3) **Lösung:**
 
 ## Kapitel 4
 
