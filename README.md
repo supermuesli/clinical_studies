@@ -22,9 +22,9 @@ Betrachten Sie die Studie von Lind. Welche charakteristischen Elemente einer kli
 **Lösung:**
 
 ## Take home message von Kapitel 1
-- Historische Beispiele
-- Ethik 
-- Gesetze
+Historische Beispiele
+Ethik 
+Gesetze
 
 ## Kapitel 2
 
@@ -45,10 +45,13 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 **Lösung:** TODO
 
 ### 3)
-- Welche Arten von Primären Endpunktvariablen unterscheidet man? 
-- **Lösung:** TODO
-- Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
-- **Lösung:** TODO
+Welche Arten von Primären Endpunktvariablen unterscheidet man? 
+
+**Lösung:** TODO
+
+Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
+
+**Lösung:** TODO
 
 ## Take home message von Kapitel 2
 - Wissenschaftliche Fragestellung wird durch Zweck z.b. Arzneimittelzulassung vorgegeben 
@@ -59,35 +62,48 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 ## Kapitel 3
 
 ### 1)
-- Was sind Gründe für eine Pilotstudie?
-- **Lösung:**
-- Benennen Sie Möglichkeiten und Grenzen von
+Was sind Gründe für eine Pilotstudie?
+
+**Lösung:**
+
+Benennen Sie Möglichkeiten und Grenzen von
 Pilotstudien.
-- **Lösung:**
+
+**Lösung:**
 
 ### 2)
-- Charakterisieren Sie die Fragestellung von Phase 1/2/3
+Charakterisieren Sie die Fragestellung von Phase 1/2/3
 Studiendesigns
-- **Lösung:**
-- Benennen und charakterisieren Sie den Ablauf möglicher
+
+**Lösung:**
+
+Benennen und charakterisieren Sie den Ablauf möglicher
 Phase 1 Studiendesigns.
-- **Lösung:**
-- Benennen Sie mögliche Schwachstellen von Phase 1/2/3
+
+**Lösung:**
+
+Benennen Sie mögliche Schwachstellen von Phase 1/2/3
 Studien
-- **Lösung:**
+
+**Lösung:**
 
 ### 3)
-- Benennen Sie mögliche Techniken zur Optimierung von
+Benennen Sie mögliche Techniken zur Optimierung von
 Studiendesigns.
-- **Lösung:**
-- Was versteht man unter Enrichment Fragestellungen
-- **Lösung:**
-- Welchen Studiendesigns werden zur Zeit im Rahmen von
+
+**Lösung:**
+
+Was versteht man unter Enrichment Fragestellungen
+
+**Lösung:**
+
+Welchen Studiendesigns werden zur Zeit im Rahmen von
 Masterprotokollen verwendet. 
-- **Lösung:**
+
+**Lösung:**
 
 ## Take home message von Kapitel 3
-- Klare definierte Zielgröße ist notwendig
+-Klare definierte Zielgröße ist notwendig
 - Wissenschaftliche Fragestellung wird in eine Hypothese
 umgesetzt
 - Statistische Hypothesen
@@ -101,33 +117,49 @@ umgesetzt
 
 ## Kapitel 4
 ### 1)
-- Nennen Sie mögliche Arten der Verblindung sowie deren
+Nennen Sie mögliche Arten der Verblindung sowie deren
 Implementierung.
-- **Lösung:**
-- Welcher Zusammenhang besteht zwischen der
+
+**Lösung:**
+
+Welcher Zusammenhang besteht zwischen der
 Randomisierung und der Verblindung?
-- **Lösung:**
-- Nennen sie mögliche Bias-Arten die durch Verblindung
+
+**Lösung:**
+
+Nennen sie mögliche Bias-Arten die durch Verblindung
 minimiert werden können.
-- **Lösung:**
+
+**Lösung:**
 
 ### 2)
-- Was versteht man unter dem Begriff „Randomisierung“?
-- **Lösung:**
-- Nennen sie mögliche Bias-Arten die durch
+Was versteht man unter dem Begriff „Randomisierung“?
+
+**Lösung:**
+
+Nennen sie mögliche Bias-Arten die durch
 Randomisierung minimiert werden können.
-- **Lösung:**
-- Nennen Sie mögliche Randomisierungsverfahren und
+
+**Lösung:**
+
+Nennen Sie mögliche Randomisierungsverfahren und
 deren Eigenschaften.
-- **Lösung:**
-- Was versteht man unter unbalancierter Randomisierung?
-- **Lösung:**
-- Welche Gründe sprechen für eine Unbalancierte
+
+**Lösung:**
+
+Was versteht man unter unbalancierter Randomisierung?
+
+**Lösung:**
+
+Welche Gründe sprechen für eine Unbalancierte
 Randomisierung?
-- **Lösung:**
-- Welche Gründe sprechen für eine Stratifizierte
+
+**Lösung:**
+
+Welche Gründe sprechen für eine Stratifizierte
 Randomisierung?
-- **Lösung:**
+
+**Lösung:**
 
 ### 3)
 Nennen Sie Elemente der Beschreibung der
@@ -138,7 +170,7 @@ CONSORT ?
 
 ## Take home message von Kapitel 4
 - Zufallszuteilung der Patienten zu den Behandlungen
-- Verschieden Verfahren möglich um eine Liste zu
+Verschieden Verfahren möglich um eine Liste zu
 generieren
 - Einfache Randomisierung
 - Eingeschränkte Randomisierung
@@ -152,32 +184,46 @@ generieren
 ## Kapitel 5
 
 ### 1)
-- Nennen Sie möglich Gründe für die Wahl einer
+Nennen Sie möglich Gründe für die Wahl einer
 multizentrischen Studienanlagen
-- **Lösung**
-- Welche möglichen Probleme schränken die Anwendung
+
+**Lösung**
+
+Welche möglichen Probleme schränken die Anwendung
 von Multicenter-Studienanlagen ein?
-- **Lösung**
-- Welche Auswertestrategien für MulticenterStudienanlagen gibt es?
-- **Lösung**
-- Charakterisieren Sie mögliche praktische Scenarien für
+
+**Lösung**
+
+Welche Auswertestrategien für MulticenterStudienanlagen gibt es?
+
+**Lösung**
+
+Charakterisieren Sie mögliche praktische Scenarien für
 die unterschiedlichen Multicenter-Studienanlagen?
-- **Lösung**
+
+**Lösung**
 
 ### 2)
-- Beschreiben Sie die möglichen Auswirkungen einer
+Beschreiben Sie die möglichen Auswirkungen einer
 Multicenter-Studienanlagen auf die statistische Aspekte
 der Planung und Auswertung
-- **Lösung**
-- Welche möglichen Auswertungsstrategien ergeben sich
+
+**Lösung**
+
+Welche möglichen Auswertungsstrategien ergeben sich
 bei Rangskalierten Daten?
-- **Lösung**
-- Kommentieren Sie die zusätzliche Aufnahme von Zentren
+
+**Lösung**
+
+Kommentieren Sie die zusätzliche Aufnahme von Zentren
 in einer laufenden Multicenterstudie
-- **Lösung**
-- Kommentieren Sie mögliche Auswirkungen der
+
+**Lösung**
+
+Kommentieren Sie mögliche Auswirkungen der
 Stratifizierung auf die Randomisierung.
-- **Lösung**
+
+**Lösung**
 
 ## Take home message von Kapitel 5
 - Multicenterstudien stellen eine erhebliche
@@ -199,26 +245,34 @@ Beschreibung Sie mögliche graphische Veranschaulichungen der Daten des einfache
 **Lösung:**
 
 ### 2)
-- Welche möglichen Probleme schränken die Anwendung
+Welche möglichen Probleme schränken die Anwendung
 von einfachen Cross-Over Versuchsplänen ein?
-- **Lösung:**
-- Beschreiben Sie Charakteristika von Krankheiten, die die
+
+**Lösung:**
+
+Beschreiben Sie Charakteristika von Krankheiten, die die
 die Anwendung von einfachen Cross-Over
 Versuchsplänen ermöglichen.
-- **Lösung:**
-- Welche möglichen Auswertungen ergeben sich bei
+
+**Lösung:**
+
+Welche möglichen Auswertungen ergeben sich bei
 Rangskalierten Daten?
-- **Lösung:**
+
+**Lösung:**
 
 ### 3)
-- Beschreibung Sie das Vorgehensweise beim Test auf
+Beschreibung Sie das Vorgehensweise beim Test auf
 Behandlungsunterschied, wenn kein Carryover Effekt
 vorliegt?
-- **Lösung:**
-- Beschreibung Sie das Vorgehensweise beim Test auf
+
+**Lösung:**
+
+Beschreibung Sie das Vorgehensweise beim Test auf
 Behandlungsunterschied, wenn ein Carryover Effekt
 vorliegt?
-- **Lösung:**
+
+**Lösung:**
 
 ## Take home message von Kapitel 6
 - schon im einfachste Fall sehr komplexes Design, sowohl
