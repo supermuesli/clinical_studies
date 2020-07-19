@@ -78,7 +78,7 @@ Studiendesigns
 **Lösung:**
 
 Benennen und charakterisieren Sie den Ablauf möglicher
-Phase 1 Studiendesigns.
+Phase 1/2/3 Studiendesigns.
 
 **Lösung:**
 
