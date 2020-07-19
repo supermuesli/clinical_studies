@@ -9,9 +9,11 @@ Betrachte
 - attrition bias 
 - detection bias
 und gebe für jedes bias eine mögliche Auswirkung in einer klinischen Studie an
+
 **Lösung:**
 ### 2)
 Betrachten Sie die Studie von Lind. Welche charakteristischen Elemente einer klinischen Studie lassen sich identifizieren?
+
 **Lösung:**
 ## Take home message von Kapitel 1
 - Historische Beispiele
@@ -27,9 +29,11 @@ Versuchen Sie die sich aus der Guideline ergebenden
 möglichen Auswirkungen für die Durchführung klinischer
 Studien zu erfassen? Hierbei interessiert insbesondere
 der Verbindlichkeitsgrad
+
 **Lösung:** TODO
 ### 2)
 Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere Komponenten festgelegt werden. Benennen Sie diese.
+
 **Lösung:** TODO
 ### 3)
 - Welche Arten von Primären Endpunktvariablen unterscheidet man? 
