@@ -46,8 +46,8 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 
 ### 3)
 - Welche Arten von Primären Endpunktvariablen unterscheidet man? 
-- Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
 - **Lösung:** TODO
+- Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
 - **Lösung:** TODO
 
 ## Take home message von Kapitel 2
@@ -60,30 +60,30 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 
 ### 1)
 - Was sind Gründe für eine Pilotstudie?
+- **Lösung:**
 - Benennen Sie Möglichkeiten und Grenzen von
 Pilotstudien.
-- **Lösung:**
 - **Lösung:**
 
 ### 2)
 - Charakterisieren Sie die Fragestellung von Phase 1/2/3
 Studiendesigns
+- **Lösung:**
 - Benennen und charakterisieren Sie den Ablauf möglicher
 Phase 1 Studiendesigns.
+- **Lösung:**
 - Benennen Sie mögliche Schwachstellen von Phase 1/2/3
 Studien
-- **Lösung:**
-- **Lösung:**
 - **Lösung:**
 
 ### 3)
 - Benennen Sie mögliche Techniken zur Optimierung von
 Studiendesigns.
+- **Lösung:**
 - Was versteht man unter Enrichment Fragestellungen
+- **Lösung:**
 - Welchen Studiendesigns werden zur Zeit im Rahmen von
 Masterprotokollen verwendet. 
-- **Lösung:**
-- **Lösung:**
 - **Lösung:**
 
 ## Take home message von Kapitel 3
@@ -103,29 +103,30 @@ umgesetzt
 ### 1)
 - Nennen Sie mögliche Arten der Verblindung sowie deren
 Implementierung.
+- **Lösung:**
 - Welcher Zusammenhang besteht zwischen der
 Randomisierung und der Verblindung?
+- **Lösung:**
 - Nennen sie mögliche Bias-Arten die durch Verblindung
 minimiert werden können.
 - **Lösung:**
-- **Lösung:**
-- **Lösung:**
 
 ### 2)
-Was versteht man unter dem Begriff „Randomisierung“?
+- Was versteht man unter dem Begriff „Randomisierung“?
+- **Lösung:**
 - Nennen sie mögliche Bias-Arten die durch
 Randomisierung minimiert werden können.
+- **Lösung:**
 - Nennen Sie mögliche Randomisierungsverfahren und
 deren Eigenschaften.
+- **Lösung:**
 - Was versteht man unter unbalancierter Randomisierung?
+- **Lösung:**
 - Welche Gründe sprechen für eine Unbalancierte
 Randomisierung?
+- **Lösung:**
 - Welche Gründe sprechen für eine Stratifizierte
 Randomisierung?
-- **Lösung:**
-- **Lösung:**
-- **Lösung:**
-- **Lösung:**
 - **Lösung:**
 
 ### 3)
@@ -153,29 +154,29 @@ generieren
 ### 1)
 - Nennen Sie möglich Gründe für die Wahl einer
 multizentrischen Studienanlagen
+- **Lösung**
 - Welche möglichen Probleme schränken die Anwendung
 von Multicenter-Studienanlagen ein?
+- **Lösung**
 - Welche Auswertestrategien für MulticenterStudienanlagen gibt es?
+- **Lösung**
 - Charakterisieren Sie mögliche praktische Scenarien für
 die unterschiedlichen Multicenter-Studienanlagen?
-- **Lösung**
-- **Lösung**
-- **Lösung**
 - **Lösung**
 
 ### 2)
 - Beschreiben Sie die möglichen Auswirkungen einer
 Multicenter-Studienanlagen auf die statistische Aspekte
 der Planung und Auswertung
+- **Lösung**
 - Welche möglichen Auswertungsstrategien ergeben sich
 bei Rangskalierten Daten?
+- **Lösung**
 - Kommentieren Sie die zusätzliche Aufnahme von Zentren
 in einer laufenden Multicenterstudie
+- **Lösung**
 - Kommentieren Sie mögliche Auswirkungen der
 Stratifizierung auf die Randomisierung.
-- **Lösung**
-- **Lösung**
-- **Lösung**
 - **Lösung**
 
 ## Take home message von Kapitel 5
@@ -200,23 +201,23 @@ Beschreibung Sie mögliche graphische Veranschaulichungen der Daten des einfache
 ### 2)
 - Welche möglichen Probleme schränken die Anwendung
 von einfachen Cross-Over Versuchsplänen ein?
+- **Lösung:**
 - Beschreiben Sie Charakteristika von Krankheiten, die die
 die Anwendung von einfachen Cross-Over
 Versuchsplänen ermöglichen.
+- **Lösung:**
 - Welche möglichen Auswertungen ergeben sich bei
 Rangskalierten Daten?
-- **Lösung:**
-- **Lösung:**
 - **Lösung:**
 
 ### 3)
 - Beschreibung Sie das Vorgehensweise beim Test auf
 Behandlungsunterschied, wenn kein Carryover Effekt
 vorliegt?
+- **Lösung:**
 - Beschreibung Sie das Vorgehensweise beim Test auf
 Behandlungsunterschied, wenn ein Carryover Effekt
 vorliegt?
-- **Lösung:**
 - **Lösung:**
 
 ## Take home message von Kapitel 6
