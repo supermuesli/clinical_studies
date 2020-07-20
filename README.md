@@ -93,21 +93,26 @@ Charakterisieren Sie die Fragestellung von Phase 0/1/2/3/4
 Studiendesigns und deren Abläufe
 
 **Lösung:**
+
 **Phase 0:**
 - Preclinical (Tierexperimente)
 - Präklinische Studien
 - Frage nach Dosis-Wirkung
+
 **Phase 1:**
 - Suche nach der Maximal Tolerablen Dosis (MTD)
 - Üblicherweise Probanden
+
 **Phase 2:**
 - Schätzung der Arzneimittelaktivität
 - weitere Entwicklung sinnvoll (Phase 2)
 - Schätzung der schweren Toxizität
 - Üblicherweise Patienten ggfs ohne Therapiealternative
+
 **Phase 3:**
 - Verschiedene Designs
 - Test des Behandlungseffektes
+
 **Phase 4:**
 - Verschiedene Designs
 - Test des Behandlungseffektes
