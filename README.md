@@ -47,11 +47,11 @@ der Verbindlichkeitsgrad
 Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere Komponenten festgelegt werden. Benennen Sie diese.
 
 **Lösung:**
-**- reliability** 
-**- validity** 
-**- responsiveness** 
-**- interpretability** 
-**- feasibility**
+- reliability 
+- validity 
+- responsiveness 
+- interpretability 
+- feasibility
 
 ### 3)
 Welche Arten von Primären Endpunktvariablen unterscheidet man? 
@@ -119,9 +119,9 @@ Benennen Sie mögliche Techniken zur Optimierung von
 Studiendesigns.
 
 **Lösung:**
-**- Randomisierung**
-**- Verblindung**
-**- Monitoring**
+- Randomisierung
+- Verblindung
+- Monitoring
 
 Was versteht man unter Enrichment Fragestellungen
 
