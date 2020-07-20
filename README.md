@@ -57,11 +57,11 @@ Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere
 Welche Arten von Primären Endpunktvariablen unterscheidet man? 
 
 **Lösung:**
-**- objektive Endpunkte**
-  **- biomarker score**
-  **- patient hat überlebt**
-**- subjektive Endpunkte**
-  **- patient fühlt sich besser**
+- objektive Endpunkte
+  - biomarker score
+  - patient hat überlebt
+- subjektive Endpunkte
+  - patient fühlt sich besser
 
 Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategorien zu und nennen Sie mögliche Vor-und Nachteile.
 
@@ -130,6 +130,9 @@ Studiendesigns.
 - Randomisierung
 - Verblindung
 - Monitoring
+- Surrogate Endpoints,
+  - die frühzeitig den primären Endpunkt indizieren
+  - deren Behandlung auch den primären Endpunkt behandeln oder positiv beeinflussen
 
 Was versteht man unter Enrichment Fragestellungen
 
@@ -159,7 +162,7 @@ Nennen Sie mögliche Arten der Verblindung sowie deren
 Implementierung.
 
 **Lösung:**
-**- probanden wissen nicht, welcher behandlung sie ausgesetzt sind, zb placebos**
+- probanden wissen nicht, welcher behandlung sie ausgesetzt sind, zb placebos
 
 Welcher Zusammenhang besteht zwischen der
 Randomisierung und der Verblindung?
