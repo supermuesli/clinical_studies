@@ -291,8 +291,10 @@ Welche möglichen Probleme schränken die Anwendung
 von einfachen Cross-Over Versuchsplänen ein?
 
 **Lösung:**
+- carryover effekte können auftreten
+- zur Vermeidung dieses Effekts kann vor die 2. Behandlungsperiode eine Wash-out-Phase gesetzt werden.
 
-Beschreiben Sie Charakteristika von Krankheiten, die die
+Beschreiben Sie Charakteristika von Krankheiten, die
 die Anwendung von einfachen Cross-Over
 Versuchsplänen ermöglichen.
 
@@ -302,6 +304,7 @@ Welche möglichen Auswertungen ergeben sich bei
 Rangskalierten Daten?
 
 **Lösung:**
+- korelattionskoeffizienten?
 
 ### 3)
 Beschreibung Sie das Vorgehensweise beim Test auf
