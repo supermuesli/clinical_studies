@@ -15,6 +15,10 @@ Betrachte
 und gebe für jedes Bias eine mögliche Auswirkung in einer klinischen Studie an
 
 **Lösung:**
+- allocation bias: 
+- performance bias 
+- attrition bias 
+- detection bias
 
 ### 2)
 Betrachten Sie die Studie von Lind. Welche charakteristischen Elemente einer klinischen Studie lassen sich identifizieren?
@@ -22,9 +26,9 @@ Betrachten Sie die Studie von Lind. Welche charakteristischen Elemente einer kli
 **Lösung:**
 
 ## Take home message von Kapitel 1
-Historische Beispiele
-Ethik 
-Gesetze
+- Historische Beispiele
+- Ethik 
+- Gesetze
 
 ## Kapitel 2
 
@@ -42,14 +46,24 @@ der Verbindlichkeitsgrad
 ### 2)
 Bei die Definition einer sinnvollen Primären Endpunkt Variablen müssen mehrere Komponenten festgelegt werden. Benennen Sie diese.
 
-**Lösung:** TODO
+**Lösung:**
+**- reliability** 
+**- validity** 
+**- responsiveness** 
+**- interpretability** 
+**- feasibility**
 
 ### 3)
 Welche Arten von Primären Endpunktvariablen unterscheidet man? 
 
-**Lösung:** TODO
+**Lösung:**
+**- objektive Endpunkte**
+  **- biomarker score**
+  **- patient hat überlebt**
+**- subjektive Endpunkte**
+  **- patient fühlt sich besser**
 
-Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategrien zu und nennen Sie mögliche Vor-und Nachteile.
+Nennen Sie Beispiele für mögliche Primären Endpunktvariablen, ordnen Sie diese den Kategorien zu und nennen Sie mögliche Vor-und Nachteile.
 
 **Lösung:** TODO
 
@@ -72,15 +86,28 @@ Pilotstudien.
 **Lösung:**
 
 ### 2)
-Charakterisieren Sie die Fragestellung von Phase 1/2/3
-Studiendesigns
+Charakterisieren Sie die Fragestellung von Phase 0/1/2/3/4
+Studiendesigns und deren Abläufe
 
 **Lösung:**
-
-Benennen und charakterisieren Sie den Ablauf möglicher
-Phase 1/2/3 Studiendesigns.
-
-**Lösung:**
+**Phase 0:**
+**- Preclinical (Tierexperimente)**
+**- Präklinische Studien**
+**- Frage nach Dosis-Wirkung**
+**Phase 1:**
+**- Suche nach der Maximal Tolerablen Dosis (MTD)**
+**- Üblicherweise Probanden**
+**Phase 2:**
+**- Schätzung der Arzneimittelaktivität**
+**- weitere Entwicklung sinnvoll (Phase 2)**
+**- Schätzung der schweren Toxizität**
+**- Üblicherweise Patienten ggfs ohne Therapiealternative **
+**Phase 3:**
+**- Verschiedene Designs**
+**- Test des Behandlungseffektes**
+**Phase 4:**
+**- Verschiedene Designs**
+**- Test des Behandlungseffektes**
 
 Benennen Sie mögliche Schwachstellen von Phase 1/2/3
 Studien
@@ -92,6 +119,9 @@ Benennen Sie mögliche Techniken zur Optimierung von
 Studiendesigns.
 
 **Lösung:**
+**- Randomisierung**
+**- Verblindung**
+**- Monitoring**
 
 Was versteht man unter Enrichment Fragestellungen
 
@@ -121,6 +151,7 @@ Nennen Sie mögliche Arten der Verblindung sowie deren
 Implementierung.
 
 **Lösung:**
+**- probanden wissen nicht, welcher behandlung sie ausgesetzt sind, zb placebos**
 
 Welcher Zusammenhang besteht zwischen der
 Randomisierung und der Verblindung?
